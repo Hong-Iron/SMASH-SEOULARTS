@@ -1,0 +1,34 @@
+{
+ "region": "경기 안산시 단원구 고잔동",
+ "nameEn": "Seoul Institute of the Arts",
+ "added": "2026-10-24T16:30",
+ "rank": 208,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SAU",
+   "campus": "신안산대학교",
+   "km": 3.6
+  },
+  {
+   "code": "HYU-ERICA",
+   "campus": "한양대학교 ERICA캠퍼스",
+   "km": 4.1
+  },
+  {
+   "code": "ANSAN",
+   "campus": "안산대학교",
+   "km": 4.4
+  },
+  {
+   "code": "TUKOREA",
+   "campus": "한국공학대학교",
+   "km": 9.2
+  },
+  {
+   "code": "YEONSUNG",
+   "campus": "연성대학교",
+   "km": 9.5
+  }
+ ]
+}
